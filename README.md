@@ -1,28 +1,12 @@
-# [Start Bootstrap - Blog Home](https://startbootstrap.com/template-overviews/blog-home/)
+# Blog Template
 
-[Blog Home](http://startbootstrap.com/template-overviews/blog-home/) is a basic blog homepage HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
-## Preview
-
-[![Blog Home Preview](https://startbootstrap.com/assets/img/templates/blog-home.jpg)](https://blackrockdigital.github.io/startbootstrap-blog-home/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-blog-home/)**
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-blog-home/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-blog-home.svg)](https://www.npmjs.com/package/startbootstrap-blog-home)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-blog-home.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-blog-home)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-blog-home/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-blog-home)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-blog-home/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-blog-home?type=dev)
+Blog Template is a basic blog HTML starter template for [Bootstrap](http://getbootstrap.com/) created from [Start Bootstrap](https://startbootstrap.com/)'s [Blog Home](https://startbootstrap.com/templates/blog-home/) and [Blog Post](https://startbootstrap.com/templates/blog-post/) templates so I can practice my JavaScript and HTML skills.
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/blog-home/)
-* Install via npm: `npm i startbootstrap-blog-home`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-blog-home.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-blog-home)
+* Clone the repo: `git clone https://github.com/davenportmw/Blog-Template.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/davenportmw/Blog-Template)
 
 ## Usage
 
@@ -35,10 +19,6 @@ After downloading, simply edit the HTML and CSS files included with the template
 After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
 You must have npm and Gulp installed globally on your machine in order to use these features.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-blog-home/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/blog-home/).
 
 ## About
 
